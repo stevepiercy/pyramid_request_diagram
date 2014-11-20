@@ -108,36 +108,6 @@
 		</dict>
 		<dict>
 			<key>Bounds</key>
-			<string>{{273.17646789550776, 217.33333333333323}, {31.490188598632812, 48.666652679443359}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>44</integer>
-			<key>ImageID</key>
-			<integer>1</integer>
-			<key>Shape</key>
-			<string>Rectangle</string>
-			<key>Style</key>
-			<dict>
-				<key>fill</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>shadow</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-				<key>stroke</key>
-				<dict>
-					<key>Draws</key>
-					<string>NO</string>
-				</dict>
-			</dict>
-		</dict>
-		<dict>
-			<key>Bounds</key>
 			<string>{{69.059259426202132, 133.64267250528323}, {55, 24}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
@@ -684,14 +654,6 @@
 	<integer>1</integer>
 	<key>ImageCounter</key>
 	<integer>2</integer>
-	<key>ImageLinkBack</key>
-	<array>
-		<dict/>
-	</array>
-	<key>ImageList</key>
-	<array>
-		<string>image1.tiff</string>
-	</array>
 	<key>KeepToScale</key>
 	<false/>
 	<key>Layers</key>
@@ -729,7 +691,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-11-20 05:51:58 +0000</string>
+	<string>2014-11-20 05:53:35 +0000</string>
 	<key>Modifier</key>
 	<string>Steve Piercy</string>
 	<key>NotesVisible</key>
