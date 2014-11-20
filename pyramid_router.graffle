@@ -6207,7 +6207,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-11-20 01:48:02 +0000</string>
+	<string>2014-11-20 04:37:48 +0000</string>
 	<key>Modifier</key>
 	<string>Steve Piercy</string>
 	<key>NotesVisible</key>
@@ -6302,15 +6302,15 @@
 		<key>SidebarWidth</key>
 		<integer>163</integer>
 		<key>VisibleRegion</key>
-		<string>{{28, 147.5}, {511.5, 585.5}}</string>
+		<string>{{-231, -226}, {1037, 1186}}</string>
 		<key>Zoom</key>
-		<real>2</real>
+		<real>1</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
 				<string>Request Processing</string>
-				<real>2</real>
 				<real>1</real>
+				<real>2</real>
 			</array>
 		</array>
 	</dict>
