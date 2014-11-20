@@ -1131,19 +1131,12 @@
 				<string>{-48.499947865804018, 189.24404841377623}</string>
 				<string>{140.66666666666669, 0}</string>
 			</array>
-			<key>Head</key>
-			<dict>
-				<key>ID</key>
-				<integer>168804</integer>
-				<key>Info</key>
-				<integer>3</integer>
-			</dict>
 			<key>ID</key>
 			<integer>168878</integer>
 			<key>Points</key>
 			<array>
 				<string>{1040.6666158040364, 515.08928491955714}</string>
-				<string>{730.16666793823242, 739.78422005970981}</string>
+				<string>{730.16666793823242, 680.66666666666663}</string>
 			</array>
 			<key>Style</key>
 			<dict>
@@ -3627,7 +3620,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-11-20 00:13:01 +0000</string>
+	<string>2014-11-20 00:19:53 +0000</string>
 	<key>Modifier</key>
 	<string>Steve Piercy</string>
 	<key>NotesVisible</key>
