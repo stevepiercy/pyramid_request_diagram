@@ -137,11 +137,11 @@
 					<key>Color</key>
 					<dict>
 						<key>b</key>
-						<string>0.422927</string>
+						<string>0.999449</string>
 						<key>g</key>
-						<string>1</string>
+						<string>0.743511</string>
 						<key>r</key>
-						<string>1</string>
+						<string>0.872276</string>
 					</dict>
 				</dict>
 				<key>shadow</key>
@@ -1510,7 +1510,7 @@ from the
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2014-12-01 08:50:52 +0000</string>
+	<string>2014-12-01 09:19:51 +0000</string>
 	<key>Modifier</key>
 	<string>Steve Piercy</string>
 	<key>NotesVisible</key>
